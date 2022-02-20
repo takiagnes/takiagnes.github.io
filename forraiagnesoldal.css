@@ -3,19 +3,18 @@ html {
     }
     h1 {
     text-align: center;
-    margin: 40px 50px 40px 50px;
+    margin: 60px 50px 30px 150px;
     font-family: sans-serif;
     }
     h2 {
     text-align: center;
-    margin: 30px 50px 30px 50px;
+    margin: 60px 50px 30px 150px;
     font-family: sans-serif;
     }
     img {
-    border-style: double;
-    width: 150px;
-    margin: 10px 50px 10px 600px;
-      background-color: black
-    box-shadow: 15px 15px 30px 15px
-    }
+      border-style: double;
+      width: 150px;
+    background-color: black
+      box-shadow: 15px 15px 30px 15px
+      }
      

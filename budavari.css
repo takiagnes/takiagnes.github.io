@@ -44,7 +44,7 @@ h5 {
     margin: 30px 50px 10px 50px;
 }
 h4 {
-    text-align: justify;
+    text-align: center;
     font-family: sans-serif;
     font-size: 22px;
     margin-left: 300px;
@@ -52,9 +52,8 @@ h4 {
 }
 img {
     border-style: double;
-    width: 500px;
-    margin: 10px 10px 10px 400px;
-      background-color: black
+    width: 350px;
+  background-color: black
     box-shadow: 15px 15px 30px 15px
     }
      
